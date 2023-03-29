@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello Java",
+      "setup": "",
+      "run": "mvn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 100
+    }
+  ]
+}
